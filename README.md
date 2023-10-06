@@ -19,11 +19,11 @@ O escopo principal delineado para o projeto foi a criação de uma tabela '.csv'
 
 1. Extração de quaisquer dados presentes em repositórios ou perfis do GitHub
 2. Análise de tendências (neste caso, linguagens de programação)
-3. _(Adicional)Alteração de repositórios do GitHub_
+3. _(Adicional) Alteração de repositórios do GitHub_
 
 **Tutorial**:
 
-Para fazer uso dessa projeto, é necessário obter um _'access_token'_. Para isso, siga os passos abaixo:
+Para fazer uso desse projeto, é necessário obter um _'access_token'_. Para isso, siga os passos abaixo:
 
 1. Acesse sua conta GitHub e vá em _Settings_.
 2. Dentro de Settings, vá em _Developer Settings_.
